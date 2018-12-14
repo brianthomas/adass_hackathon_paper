@@ -6,6 +6,5 @@
 *.dvi
 *.out
 *.spl
-acfits.pdf
-acfits.ps
-acfits.synctex.gz
+hackathon.pdf
+hackathon.ps
