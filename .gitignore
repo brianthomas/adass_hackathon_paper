@@ -1,0 +1,11 @@
+*~
+*.log
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.out
+*.spl
+acfits.pdf
+acfits.ps
+acfits.synctex.gz
