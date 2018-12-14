@@ -1,0 +1,1 @@
+rm hackathon.pdf; pdflatex hackathon; pdflatex hackathon;  bibtex hackathon ; bibtex hackathon; pdflatex hackathon; acroread hackathon.pdf 
