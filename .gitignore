@@ -6,5 +6,5 @@
 *.dvi
 *.out
 *.spl
-hackathon.pdf
-hackathon.ps
+*.pdf
+*.ps
